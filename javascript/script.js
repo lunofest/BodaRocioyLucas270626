@@ -354,7 +354,7 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
   // Definir los números de teléfono
   const recipientNumber1 = '542805058153'; // Número para el primer botón
-  const recipientNumber2 = '542804104522'; // Número para el segundo botón
+  const recipientNumber2 = '542804194522'; // Número para el segundo botón
 
   // Función para enviar mensaje por WhatsApp
   function sendMessage(phoneNumber) {
